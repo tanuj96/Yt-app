@@ -26,7 +26,7 @@ class App extends React.Component {
     };
 
     componentDidMount() {
-      this.onTermSubmit('Nature');
+      this.onTermSubmit('CID');
     }
 
     render() {
